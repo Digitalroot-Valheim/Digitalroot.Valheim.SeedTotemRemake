@@ -1,5 +1,5 @@
 # Summary
-This is a remake of <a href="https://www.nexusmods.com/valheim/mods/969">Seed Totem</a>  
+This is a remake of <a href="https://www.nexusmods.com/valheim/mods/969">Seed Totem</a> by MarcoPogo  
  
 Original Mod: [https://www.nexusmods.com/valheim/mods/969](https://www.nexusmods.com/valheim/mods/969)
 
